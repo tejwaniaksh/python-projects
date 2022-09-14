@@ -1,1 +1,1 @@
-# python-procects
+# python-projects
